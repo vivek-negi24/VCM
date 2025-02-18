@@ -1,7 +1,7 @@
 # VCM :- Vaccine Center Management System using Java and MySQL involves several key components and functionalities
 
 Technologies
-Java: Core logic, DAO classes, and business rules.
+Java: Core logic, classes, and OOP's Concept.
 MySQL: Database for storing all transactional data.
 
 Key Features
